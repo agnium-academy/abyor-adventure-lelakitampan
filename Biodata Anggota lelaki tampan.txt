@@ -9,3 +9,6 @@ No.,Nama, Keahlian, Deskripsi, Posisi
 
 
 ini tabahannnya
+
+Keterangan :
+Nama : Nama Panggung 
