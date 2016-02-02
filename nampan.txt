@@ -1,15 +1,22 @@
-# Ketampanan Sejati
+# Ketampanan Sejati adalah
 
 Tampan itu harus pandai memasak, Seta banget brooo. 
 Tampan itu harus pandai membantu orang tua, Dhani banget coooyyy. 
+
+Tampan itu harus menghargai wanita, gak salah lagi jelas Dhani Bambang Susilowangunjati orangnya braayy.
+
 Tampan itu harus menghargai wanita, gak salah lagi jelas Seta Bambang Susilowangun orangnya braayy.
 Tampan itu rajin belajar dan suka menabung
 Tampan itu rajin download anime dan siap berbagi film ke rekan-rekannya -> kiki banget
 Tampan itu ...<to be continued>
 
 
+<<<<<<< HEAD
+nama password saya 123
+=======
 
 
 
 nama password saya Tampan banget123
+>>>>>>> 487c39774cc31fef59e4fbfa5c339d9e6e412cf3
 
